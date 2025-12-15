@@ -1,0 +1,11 @@
+# Model & data besar
+*.h5
+*.npy
+
+# Cache python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+env/
